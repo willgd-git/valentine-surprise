@@ -282,7 +282,7 @@ document.addEventListener("DOMContentLoaded", function () {
             noBtn.addEventListener("click", function () {
 				content.innerHTML = "<div style='text-align: center;'>" +
 					"<img src='pictures/sad.gif' alt='Sad GIF' style='display: block; margin: 0 auto;'>" +
-					"<p style='font-size: 24px;'>Next time nalang :(</p>" +
+					"<p style='font-size: 24px;'>Refresh this page, you must go with me :(</p>" +
 					"</div>";
 			});
         });
