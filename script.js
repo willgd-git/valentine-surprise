@@ -19,10 +19,10 @@ document.addEventListener("DOMContentLoaded", function () {
                     <div class="front flap"></div>
                     <div class="front pocket"></div>
                     <div class="letter">
-                        <p class="words line1">I'm vvv lucky to have you in my life :D</p>
-                        <p class="words line2">Can't wait to celebrate valentine's wt you!</p>
+                        <p class="words line1">I'm very very very lucky to have you in my life ❤️</p>
+                        <p class="words line2">Can't wait to celebrate this night's valentine with you!</p>
                         <p class="words line3">I love you more than you’ll ever know!</p>
-                        <p class="words line4">- your loving bf</p>
+                        <p class="words line4">- your bii❤️</p>
                     </div>
                 </div>
             </div>
